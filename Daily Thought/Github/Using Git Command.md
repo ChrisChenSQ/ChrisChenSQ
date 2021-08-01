@@ -58,3 +58,24 @@ Finally, push it to GitHub, use the command,
 git push -u origin main
 ```
 
+
+
+## Some common Git command
+
+after you change some file locally, you could use the command,
+
+```
+git status
+```
+
+to check the status of the whole local repository. The file name in red means that this file is changed and it is not committed. If the file name is green means that the file is committed and is ready to be pushed.
+
+
+
+To check the difference of change, you could use the command,
+
+```
+git diff
+```
+
+to check the difference between the previous version and the current version.
