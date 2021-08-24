@@ -10,7 +10,7 @@ git config --global user.email "xxx@yeah.net"
 生成密钥：
 
 ```
-ssh keygen -t rsa -C "{{ github email }}"
+ssh-keygen -t rsa -C "{{ github email }}"
 ```
 
 如果不需要ssh密码的话，连续三个`enter`键。
