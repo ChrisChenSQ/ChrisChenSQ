@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Machine learning & AI
 - 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me chrischen20000123@gmail.com
+- Test
 
 <!---
 ChrisChenSQ/ChrisChenSQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
