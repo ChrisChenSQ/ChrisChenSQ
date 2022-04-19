@@ -1,1 +1,1 @@
-This file contains some daily thought about my life.
+This file contains some daily thought about my life. 
