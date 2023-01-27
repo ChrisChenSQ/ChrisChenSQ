@@ -1,0 +1,1 @@
+# This file contains some thoughts when doing school work.
