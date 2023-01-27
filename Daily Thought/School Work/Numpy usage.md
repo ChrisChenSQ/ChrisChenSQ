@@ -10,6 +10,8 @@ return the index only writing the condition inside:  ```numpy.where(condition)``
 
 [Official Wiki](https://numpy.org/doc/stable/reference/generated/numpy.where.html)
 
+This is a great function when you want to split x based on y. Detailed see CS571 HW1.
+
 ----
 
 ## numpy.sum
