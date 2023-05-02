@@ -1,6 +1,6 @@
 # Truss Note
 ### Fuzzy Search
-```
+```sql
 WITH similarity_data AS (
   SELECT *, word_similarity(name, 'misspeled_word') AS similarity_score
   FROM projects
